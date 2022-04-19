@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@1,200&family=Oswald:wght@300&family=Palanquin&family=Poppins:wght@300&family=Raleway:wght@100&family=Roboto+Condensed&family=Source+Sans+Pro:wght@200&family=Ubuntu&display=swap');
+
+
+html {
+
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(43, 34, 34);
+}
